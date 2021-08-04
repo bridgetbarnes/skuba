@@ -1,5 +1,11 @@
 # skuba
 
+## 3.14.4
+
+### Patch Changes
+
+- 5b74f50: **template:** seek-jobs/gantry v1.4.0
+
 ## 3.14.3
 
 ### Patch Changes
